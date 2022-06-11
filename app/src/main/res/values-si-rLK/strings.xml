@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">භාෂා යෙදුම</string>
+
+    <string name="welcome">සාදරයෙන් පිළිගනිමු</string>
+    <string name="email">විද්යුත් තැපෑල</string>
+    <string name="name">නම</string>
+    <string name="city">නගරය</string>
+    <string name="chagelang">භාෂාව වෙනස් කරන්න</string>
+</resources>

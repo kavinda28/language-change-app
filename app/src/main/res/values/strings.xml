@@ -1,0 +1,11 @@
+ <resources>
+     <string name="app_name">language_app</string>
+
+     <string name="welcome" >Welcome</string>
+     <string name="email" >Email</string>
+     <string name="name" >Name</string>
+     <string name="city" >City</string>
+     <string name="chagelang" >Change language</string>
+
+
+ </resources>
